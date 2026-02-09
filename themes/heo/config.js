@@ -86,7 +86,7 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '公众号【西门达】',
+  HEO_SOCIAL_CARD_TITLE_1: '公众号-西门达',
   HEO_SOCIAL_CARD_TITLE_2: '防和谐Q群：1072176786',
   HEO_SOCIAL_CARD_TITLE_3: '点击加群',
   HEO_SOCIAL_CARD_URL: '/notice',
