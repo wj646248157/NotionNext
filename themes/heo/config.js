@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '🏮 西门达藏经阁，品读千古奇书！', url: '#' },
-    { title: '🔥 绝版古籍+私房资源，速领！！', url: '/notice' },
+    { title: '🔥 绝版古籍+私房资源，点此速领！！', url: '/notice' },
     { title: '📱 公众号【西门达】 Q群：1072176786', url: '/notice' }
   ],
 
