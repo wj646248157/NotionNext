@@ -55,7 +55,7 @@ const CONFIG = {
   HEO_INFO_CARD_URL2: 'https://space.bilibili.com/3546958551583347?spm_id_from=333.40164.0.0',
   HEO_INFO_CARD_ICON2: 'fab fa-bilibili',
   HEO_INFO_CARD_URL3: 'https://space.bilibili.com/3546958551583347?spm_id_from=333.40164.0.0',
-  HEO_INFO_CARD_TEXT3: '郭德纲金瓶梅',
+  HEO_INFO_CARD_TEXT3: '德纲金瓶梅',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
@@ -86,8 +86,8 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '西门达粉丝群',
-  HEO_SOCIAL_CARD_TITLE_2: '领绝版书与防和谐资料',
+  HEO_SOCIAL_CARD_TITLE_1: '公众号【西门达】',
+  HEO_SOCIAL_CARD_TITLE_2: '防和谐Q群：1072176786',
   HEO_SOCIAL_CARD_TITLE_3: '点击加群',
   HEO_SOCIAL_CARD_URL: '/notice',
 
